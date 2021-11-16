@@ -260,3 +260,5 @@ Copyright 2019 Twitter, Inc and other contributors
 Code licensed under the MIT License: <http://opensource.org/licenses/MIT>
 
 Graphics licensed under CC-BY 4.0: <https://creativecommons.org/licenses/by/4.0/>
+
+https://medium.com/mitchtalmadge/how-to-modify-android-emojis-root-required-9536c68376db
